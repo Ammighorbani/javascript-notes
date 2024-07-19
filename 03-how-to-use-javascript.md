@@ -1,6 +1,6 @@
 # How to use javascript
 
-## alert() :
+### alert() :
 When someone comes in to our website they will recieve an error at the top of screen.
 
 ### example: `alert(10)`
