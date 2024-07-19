@@ -3,7 +3,7 @@
 ### "+":
  **To total variables**
 
-### Example: ```alert(Num1 + Num2)```
+### Example: `alert(Num1 + Num2)`
 
 ### "-": 
  **To subtraction variables**
