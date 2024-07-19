@@ -7,20 +7,20 @@
 ### Example: `var myAge = 18`
 
 ### 2- String:
-**This type of data using for names or notes look like "Amir"**
+**This type of data using for names or notes look like "Amir".**
 
 ### Example: `var myName = "Amir mahdi"`
 
 ### Note: 
-**This type of data must be in single quotation (' ') or duble quotation (" ")**
+**This type of data must be in single quotation (' ') or duble quotation (" ").**
 
 ### 3- Boolean:
-**This type of data only have two different value one of theme is (true) and other is (fales)**
+**This type of data only have two different value one of theme is (true) and other is (fales).**
 
 ### Example: `var isOnline = true`
 
 ### typeof:
-**This command use to see the variables data type**
+**This command use to see the variables data type.**
 
 ### Example: 
 
