@@ -17,5 +17,6 @@ When someone comes in to our website they will recieve an error at the top of sc
 ### example:
 ```<script src=" [path/to/file] "></script> ==> <script src="./js/script.js"></script>```
 
+<br>
 
 ### <a href="https://javascript.info/hello-world" style="text-decoration: none;"> source </a>
