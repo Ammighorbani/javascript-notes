@@ -13,7 +13,7 @@
 `alert(UserAccount)`
 
 ### Important note:
-  In inspect into console tab we can see our bugs or errors
+  **In inspect into console tab we can see our bugs or errors**
 
 <br>
 
