@@ -1,3 +1,10 @@
+<style>
+    body {
+        padding-right: 35px;
+        padding-left: 35px;
+    }
+</style>
+
 # Conditions (if-else)
 
 ### "if" : 
