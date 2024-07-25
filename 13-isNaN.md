@@ -1,7 +1,7 @@
 # isNaN 
 
 ### Note: 
-**this method will check our operation is NaN or not if it's NaN we will receive "true" and it's not we will reveive "false".**
+**This method will check our operation is NaN or not if it's NaN we will receive "true" and it's not we will reveive "false".**
 
 ### Example: 
 
