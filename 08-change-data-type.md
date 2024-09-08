@@ -40,13 +40,13 @@ var booleanAge = Boolean("1")
 ### Importante Note:
  **All the numbers is "true" except zero(0) the zero number is "false"**
 
-## true:
+### true:
  **The "true" meaning is correct or it's real or it have a value and it's not empty**
 
-## false: 
+### false: 
 **The "false" meaning is incorrect or its not real or it have not a value and it's empty**
 
-## Note: 
+### Note: 
 **If a string is empty it's "false" and if it isn't empty it's "true"**
 
 
