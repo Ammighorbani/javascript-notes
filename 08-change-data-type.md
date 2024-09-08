@@ -7,7 +7,8 @@
 var userAge = "13"
 var userNumberAge = Number(userAge)
 
-alert(userNumberAge) and alert(typeof userNumberAge)
+alert(userNumberAge)
+alert(typeof userNumberAge)
 ```
 
 ### Better way:
