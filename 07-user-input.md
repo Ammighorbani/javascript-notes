@@ -1,4 +1,4 @@
-# User inpute
+# User input
 
 ### prompte():
 **We use prompt to get input from our client or users.**
