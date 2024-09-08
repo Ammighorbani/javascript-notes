@@ -27,7 +27,7 @@
 ### Inpute:
 ```
 var isOnline = true 
-alert(typeof isOnline)
+alert(typeof(isOnline))
 ```
 
 ### Output:
