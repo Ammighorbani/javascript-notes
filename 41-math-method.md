@@ -122,7 +122,7 @@ console.log(Math.round(1.5464))
 1
 ```
 
-### ceil: 
+### ceil(): 
 **It's completely look like "round()".**
 
 **Inpute:**
