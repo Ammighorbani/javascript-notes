@@ -1,4 +1,4 @@
-# Switch Case: 
+# Switch Case
 ### It's look like "if", "else", "else if"
 
 ### Syntax:
