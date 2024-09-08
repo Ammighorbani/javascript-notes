@@ -1,7 +1,7 @@
 # NaN: Not a Number
 
 ### Note: 
-**If we append a "String" data type to "Number" data type the concat will happen.**
+**If we append a "Number" data type to "String" data type the concat will happen.**
 
 ### Example: 
 
