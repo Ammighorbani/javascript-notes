@@ -44,7 +44,7 @@ true
 ```
 
 ### "===" : 
-**In the first step it will check the variables for their data type and then in the second step it will check it for their value if both of them be "true" we will receive true if one of them is false we will receive false.**
+**In the first step it will check the variables for their data type and then in the second step it will check it for their value if both of them be "true" we will receive true if one of them is "false" we will receive "false".**
 
 ### Example: 
 
