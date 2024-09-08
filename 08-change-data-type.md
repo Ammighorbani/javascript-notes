@@ -1,6 +1,6 @@
 # Change Data Type
 
-## Change String data type to Number data type
+### Change String data type to Number data type
 
 ### Example:
 ```
