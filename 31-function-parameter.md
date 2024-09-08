@@ -11,7 +11,7 @@ function [func-name]([parameter]) {
 
 ### How to call: `[func-name]([parameter])`
 
-# Eexample:
+### Eexample:
 
 **Inpute:**
 ```
