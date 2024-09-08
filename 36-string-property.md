@@ -7,7 +7,7 @@
 **Each "index" is unique it's mean we have only one of that.**
 
 ### Note: 
-**"index" are starting from "0".**
+**startings "index" are from "0".**
 
 ### Finding index: 
 **We must to write the variable name and then use "[]" and write a number in it that number is the index of that character we want.**
