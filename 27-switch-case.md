@@ -66,7 +66,7 @@ switch(num3) {
         alert("10")
         break
     case 11:
-case 12:
+    case 12:
         alert("11,12")
         break
 default:
