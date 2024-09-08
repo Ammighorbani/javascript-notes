@@ -7,7 +7,7 @@ var text = "I Love Javascript and React"
 
 ### slice():
 
-**Inpute:**
+**Input:**
 ```
 console.log(text.slice(7,17))
 ```
@@ -25,7 +25,7 @@ Javascript
 
 ### substr():
 
-**Inpute:**
+**Input:**
 ```
 console.log(text.substr(7,10))
 ```
@@ -40,7 +40,7 @@ Javascript
 
 ### substring() :
 
-**Inpute:**
+**Input:**
 ```
 console.log(text.substring(7,17))
 ```
