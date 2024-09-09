@@ -213,4 +213,4 @@ console.log(Name.split(""))
 **It will make some indexes equal with the orginal "String" data type lenght and that new "Array" items equal with the orginal same index of our "String" data type.**
 
 ### "join()": 
-**It will make "String" data type of our "Array" of items and the new "String" data type indexex are equal with the orginal "Array" items.**
+**It will make "String" data type of our "Array" of items and the new "String" data type indexes are equal with the orginal "Array" items.**
