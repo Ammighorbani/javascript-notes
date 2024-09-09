@@ -1,6 +1,6 @@
 # "eval()" is Evil?
 
-### Never ever use "eval" function becuase for lot's of reason.
+### Never ever use "eval" method becuase for lot's of reason.
 
 ### 1- If you are getting "Input" of your client it could be possible our client be "hacker" and enter a virus in our "eval" function.
 
