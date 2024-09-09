@@ -23,7 +23,7 @@ var findUser = users.filter(function (user) {
 ### Note: 
 **In this method we never choose a name for our function is in our method.**
 
-### "IIFE" function: 
+### "IIFE" function: (Immediately Invoked Function Expression)
 
 ### Example:
 ```
