@@ -6,7 +6,7 @@ var hmunum = Number(prompt(how many number to input))
 var mianginarr = []
 var miangin = 0
 
-while (i  hmunum) {
+while (i < hmunum) {
     var userNumberInput = Number(prompt(Enter your numbers))
 
     console.log(userNumberInput)
@@ -15,9 +15,9 @@ while (i  hmunum) {
     i++
 }
 
-for (var ii = 0; ii  mianginarr.length; ii++) {
+for (var ii = 0; ii < mianginarr.length; ii++) {
     miangin += mianginarr[ii]
 }
 
-console.log(miangin  mianginarr.length)
+console.log(miangin / mianginarr.length)
 ```
