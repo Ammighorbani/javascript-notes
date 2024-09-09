@@ -1,6 +1,6 @@
 # "eval"
 
-### This method will evaluatev a "String" data type for us and get back the resault of it.
+### This method will evaluate a "String" data type for us and get back the resault of it.
 
 ### Example:
 
