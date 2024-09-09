@@ -1,6 +1,6 @@
 # Beast Practice Part 1
 
-### Hears we will tell you some guideline to write better codes.
+### Hear we will tell you some guideline to write better codes.
 
 ### 1- If you are writing a code and you have a condition base on a "boolean" data type "variable" and if it's data type is "true" you don't need to compare it.
 
