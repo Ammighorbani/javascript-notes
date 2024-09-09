@@ -18,7 +18,7 @@ console.log(Array.isArray(scores))
 ```
 
 ### indexof() : 
-**This method will check our "Input" if it's in our "Array" it will give us that "Inpute" index if it's not it will say "-1".**
+**This method will check our "Input" if it's in our "Array" it will give us that "Input" index if it's not it will say "-1".**
 
 ### Example:
 
