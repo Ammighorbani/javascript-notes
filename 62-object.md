@@ -29,7 +29,7 @@ console.log(ali)
 **In "object" something like "name" is "key" and something like 'Amir' is "value".**
 
 ### Note: 
-**In "object" we don't some index something like "Array" our index is our "key" and we can see our "value" with their "key".**
+**In "object" we don't have index something like "Array" our index is our "key" and we can see our "value" with their "key".**
 
 ### Example:
 
